@@ -1,8 +1,2 @@
-<div style="display: flex; justify-content: center;">
-  <a href="https://github.com/bruno-venturini%22%3E
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bruno-venturini&count_private=true&theme=dark" />
-  </a>
-  <a href="https://github.com/bruno-venturini%22%3E
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-venturini&layout=compact&theme=dark" />
-  </a>
-</div>
+![Bruno-Venturini's Stats](https://github-readme-stats.vercel.app/api?username=Bruno-Venturini&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Bruno-Venturini's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Venturini&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
